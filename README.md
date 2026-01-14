@@ -24,23 +24,11 @@ I am a passionate engineering student with a strong interest in **Cloud Computin
 
 ### 💻 Programming & Development
 - Python
-- Flutter & Dart
-- HTML, CSS, JavaScript
-- React (Admin Panel)
-
-### 🤖 Machine Learning
-- TensorFlow
-- Keras
-- CNN
-- MobileNetV2
+- HTML
 
 ### 🔥 Backend & Services
-- Firebase Authentication
-- Firebase Storage
-- Google Cloud (Basics)
-
+- Firebase
 ---
-
 ## 👯 Looking to Collaborate On
 - Cloud & DevOps projects  
 - Open-source contributions  
@@ -58,4 +46,4 @@ I am a passionate engineering student with a strong interest in **Cloud Computin
 
 ---
 
-⭐ *Always learning, building, and improving.*
+⭐ *Always learning, building, and improving.*  
