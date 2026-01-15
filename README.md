@@ -43,7 +43,7 @@ I am a passionate engineering student with a strong interest in **Cloud Computin
 
 ## 📫 Connect With Me
 - GitHub: [MohanDhonnar2512](https://github.com/MohanDhonnar2512)
-- linkdin: [mohan-dhonnar](www.linkedin.com/in/mohan-dhonnar-063760343)
+- linkdin: [mohan-dhonnar]([www.linkedin.com/in/mohan-dhonnar-063760343](https://www.linkedin.com/in/mohan-dhonnar-063760343/))
 
 ---
 
