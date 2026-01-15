@@ -17,10 +17,10 @@ I am a passionate engineering student with a strong interest in **Cloud Computin
 ## 🌱 Technologies & Tools
 
 ### ☁️ Cloud & DevOps
-- AWS (EC2, S3, VPC, IAM, VPC Peering)
+- AWS (EC2, S3, VPC, IAM, RDS, IAM,)
 - Docker
 - Git & GitHub
-- Linux (Basics)
+- Linux 
 
 ### 💻 Programming & Development
 - Python
@@ -43,6 +43,7 @@ I am a passionate engineering student with a strong interest in **Cloud Computin
 
 ## 📫 Connect With Me
 - GitHub: [MohanDhonnar2512](https://github.com/MohanDhonnar2512)
+- linkdin: [Mohan Dhonnar](www.linkedin.com/in/mohan-dhonnar-063760343)
 
 ---
 
