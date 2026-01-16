@@ -8,7 +8,7 @@ I am a passionate engineering student with a strong interest in **Cloud Computin
 
 ## 🔭 What I’m Currently Working On
 - Cloud & DevOps hands-on projects  
-- AWS networking   
+- AWS networking 
 - Containerization using Docker  
 - Version control and collaboration using Git & GitHub  
 
