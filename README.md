@@ -8,7 +8,7 @@ I am a passionate engineering student with a strong interest in **Cloud Computin
 
 ## 🔭 What I’m Currently Working On
 - Cloud & DevOps hands-on projects  
-- AWS networking (VPC, EC2, IAM, VPC Peering)  
+- AWS networking   
 - Containerization using Docker  
 - Version control and collaboration using Git & GitHub  
 
@@ -17,7 +17,7 @@ I am a passionate engineering student with a strong interest in **Cloud Computin
 ## 🌱 Technologies & Tools
 
 ### ☁️ Cloud & DevOps
-- AWS (EC2, S3, VPC, IAM, RDS, IAM,)
+- AWS (EC2, S3, VPC, IAM, RDS, IAM, LAMBDA, ECS, ECR)
 - Docker
 - Git & GitHub
 - Linux 
@@ -44,7 +44,7 @@ I am a passionate engineering student with a strong interest in **Cloud Computin
 ## 📫 Connect With Me
 - GitHub: [MohanDhonnar2512](https://github.com/MohanDhonnar2512)
 - LinkedIn: [mohan-dhonnar](https://www.linkedin.com/in/mohan-dhonnar-063760343/)
-
+- Email: (mohandhonnar6@gmail.com).
 ---
 
 ⭐ *Always learning, building, and improving.*  
